@@ -1,2 +1,3 @@
 "this is File A Extra text added modified in Github"
+changes done in the explorer also saved
 
